@@ -3,6 +3,7 @@ body {
   background-image: url(images/background.png);
   background-size:cover;
   background-repeat: no-repeat;
+  z-index: -1;
 }
 
 h1 {
