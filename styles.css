@@ -1,10 +1,11 @@
 body {
   text-align: center;
-  background-image: url(images/background.png);
   background-size:cover;
   background-repeat: no-repeat;
 }
-
+.bg-image{
+  background-image: url()
+}
 h1 {
   font-size: 5rem;
   color: #DBEDF3;
