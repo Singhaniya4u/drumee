@@ -4,13 +4,7 @@ body {
   background-repeat: no-repeat;
 }
 .bg-image{
-  background-image: url(images/background.png);
-  filter: blur(8px);
-  -webkit-filter: blur(8px);
-  background-repeat: no-repeat;
-  background-position: center;
-  height: 100%;
-  background-size: cover;
+  background-color: black;
 }
 h1 {
   font-size: 5rem;
